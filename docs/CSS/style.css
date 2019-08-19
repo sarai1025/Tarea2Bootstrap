@@ -1,0 +1,92 @@
+.bg-dark {
+    background-color: rgba(26, 110, 194, 0.795) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.black {
+    font-family: Calibri;
+    color: black;
+    font-weight: bolder;
+    font-size: 150%;
+}
+
+.blanco {
+    font-family: Calibri;
+    color: white;
+    font-weight: bolder;
+    font-size: 100%;
+}
+
+.display-4 {
+    margin-left: 250%;
+}
+
+.imagen1 {
+    max-width: 280px;
+    max-height: 280px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.container.custom-container {
+    padding: 0 10em;
+}
+
+.imagen0 {
+    background-image: url("https://www.neoteo.com/wp-content/uploads/2009/08/nocheestrellas.jpg");
+    width: 100%;
+}
+
+.letraBlanca {
+    color: white;
+}
+
+hr {
+    width: 60%;
+    border: 0.5px solid gray;
+}
+
+.colorgris {
+    background-color: gainsboro;
+}
+
+.negro {
+    font-family: Calibri;
+    color: black;
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+.imagenEstudios {
+    height: 13rem;
+}
+
+.carousel-inner .carousel-item>img {
+    width: 640px;
+    height: 570px;
+}
+
+.sombra {
+    text-shadow: black 0.1em 0.1em 0.2em
+}
+
+.imagen3 {
+    max-width: 380px;
+    max-height: 280px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.icon {
+    color: gold;
+    font-size: 200%;
+}
+
+.oscuro {
+    color: lightgray;
+}
